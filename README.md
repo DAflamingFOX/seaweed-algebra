@@ -51,7 +51,7 @@ If you wish to use a version of the library that is unpublished, you can do so i
 #### Installing from GitHub
 
 ```bash
-pip install git+https://github.com/daflamingfox/seaweed_algebra
+pip install git+https://github.com/daflamingfox/seaweed-algebra
 ```
 
 Additionally, you can specify a specific version by appending `@VERSION` to the link, where `@VERSION` can be:

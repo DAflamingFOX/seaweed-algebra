@@ -30,10 +30,9 @@ dev = [
 test = [
     "pytest>=9.0.0"
 ]
-
 [project.urls]
-Homepage = "https://github.com/daflamingfox/seaweed_algebra"
-Issues = "https://github.com/daflamingfox/seaweed_algebra/issues"
+Homepage = "https://github.com/daflamingfox/seaweed-algebra"
+Issues = "https://github.com/daflamingfox/seaweed-algebra/issues"
 
 [tool.hatch.version]
 source = "vcs"
